@@ -1,5 +1,6 @@
+ /* unnecessary comment, had to make a commit to deploy */
  body{
-            background-color: hsl(222, 47%, 6%);
+            background-color: black;
             color: white;
             overflow-x: hidden;
         }
